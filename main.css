@@ -1,5 +1,6 @@
 body {
     font-size: larger;
     color:red;
-    font-family:20ss;
+    background-color:black;
+    overflow: hidden;
 }
